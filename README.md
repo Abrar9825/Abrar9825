@@ -1,5 +1,4 @@
- <img src="https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge&left_text=MyPageVisitors"/>
-
+ <img src="https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge&format=true"/>
 
 # 💫 About Me:
 🔭 I’m currently working on a MERN project that I’m excited about!<br><br>👯 I’m looking to collaborate on DevOps practices and cloud-related projects.<br><br>🤝 I’m looking for help with optimizing deployment processes and learning more about CI/CD pipelines.<br><br>🌱 I’m currently learning about cloud technologies and containerization.<br><br>💬 Ask me about my MERN project or my journey into DevOps!<br><br>⚡ Fun fact: I love exploring new cloud services and tools—there's always something new to discover!
