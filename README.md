@@ -1,4 +1,8 @@
- <img src="https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge&format=true"/>
+ <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge&format=true"/>
+ 
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Pedro+Muniz!;" />
+</h1>
 
 # 💫 About Me:
 🔭 I’m currently working on a MERN project that I’m excited about!<br><br>👯 I’m looking to collaborate on DevOps practices and cloud-related projects.<br><br>🤝 I’m looking for help with optimizing deployment processes and learning more about CI/CD pipelines.<br><br>🌱 I’m currently learning about cloud technologies and containerization.<br><br>💬 Ask me about my MERN project or my journey into DevOps!<br><br>⚡ Fun fact: I love exploring new cloud services and tools—there's always something new to discover!
