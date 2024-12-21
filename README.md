@@ -1,12 +1,18 @@
- <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Abrar9825.Abrar9825"/>
- 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Abrar+Shaikh!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=5000&lines=Hi+There!+👋;+I'm+Abrar+Shaikh!;+It's+Great+To+Connact+With+You" />
 </h1>
 
-# 💫 About Me:
-🔭 I’m currently working on a MERN project that I’m excited about!<br><br>👯 I’m looking to collaborate on DevOps practices and cloud-related projects.<br><br>🤝 I’m looking for help with optimizing deployment processes and learning more about CI/CD pipelines.<br><br>🌱 I’m currently learning about cloud technologies and containerization.<br><br>💬 Ask me about my MERN project or my journey into DevOps!<br><br>⚡ Fun fact: I love exploring new cloud services and tools—there's always something new to discover!
+<div align="center">
+ 
+ 🔭 I’m currently working on **a marketplace**
+ 
+ 🌱 I’m currently learning **Docker, Supabase, AWS**
 
+💬 Ask me about **Node.js, React, MongoDB, MySQL or anything [here](https://github.com/Abrar9825/Abrar9825/issues)**
+
+⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+
+ </div>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/abrar-shaikh-994995247/) 
