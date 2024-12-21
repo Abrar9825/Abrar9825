@@ -1,0 +1,35 @@
+name: Update Quote
+
+on:
+  workflow_dispatch:  # Manually trigger the workflow
+  schedule:
+    - cron: '30 6 * * *'  # Schedule daily at 12:01 AM Indian Time (6:30 AM UTC)
+
+jobs:
+  update-readme:
+    runs-on: windows-latest  # Change to windows-latest since you're using Windows
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '14'
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Update Quote
+        run: node update-quote.js
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name 'Abrar9825'
+          git config --global user.email 'abrarshaikh9825@gmail.com'
+          git add README.md
+          git commit -m "Update README with daily quote" -a
+          git push
